@@ -2,4 +2,5 @@
     <string name="app_name">Relative Layout Advanced</string>
     <string name="btnLogin">Login</string>
     <string name="strRegister">Ainda não é cadastrado? Cadastre-se aqui</string>
+    <string name="etEmail">Email</string>
 </resources>
